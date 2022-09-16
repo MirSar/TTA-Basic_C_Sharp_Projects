@@ -1,0 +1,7 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\HelloWorldConsoleApp\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb

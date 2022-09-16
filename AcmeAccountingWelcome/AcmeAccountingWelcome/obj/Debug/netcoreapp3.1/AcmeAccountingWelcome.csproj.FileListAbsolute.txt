@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\bin\Debug\netcoreapp3.1\AcmeAccountingWelcome.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\bin\Debug\netcoreapp3.1\AcmeAccountingWelcome.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\bin\Debug\netcoreapp3.1\AcmeAccountingWelcome.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\bin\Debug\netcoreapp3.1\AcmeAccountingWelcome.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\bin\Debug\netcoreapp3.1\AcmeAccountingWelcome.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\bin\Debug\netcoreapp3.1\AcmeAccountingWelcome.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\obj\Debug\netcoreapp3.1\AcmeAccountingWelcome.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\obj\Debug\netcoreapp3.1\AcmeAccountingWelcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\obj\Debug\netcoreapp3.1\AcmeAccountingWelcome.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\obj\Debug\netcoreapp3.1\AcmeAccountingWelcome.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\obj\Debug\netcoreapp3.1\AcmeAccountingWelcome.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\obj\Debug\netcoreapp3.1\AcmeAccountingWelcome.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\obj\Debug\netcoreapp3.1\AcmeAccountingWelcome.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\AcmeAccountingWelcome\AcmeAccountingWelcome\obj\Debug\netcoreapp3.1\AcmeAccountingWelcome.genruntimeconfig.cache

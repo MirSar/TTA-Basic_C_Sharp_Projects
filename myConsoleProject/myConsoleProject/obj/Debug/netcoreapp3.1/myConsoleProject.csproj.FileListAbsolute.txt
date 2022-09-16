@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.genruntimeconfig.cache
