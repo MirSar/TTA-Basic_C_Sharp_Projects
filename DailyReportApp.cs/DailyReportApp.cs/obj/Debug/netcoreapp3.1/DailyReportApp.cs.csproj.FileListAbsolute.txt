@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\bin\Debug\netcoreapp3.1\DailyReportApp.cs.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\bin\Debug\netcoreapp3.1\DailyReportApp.cs.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\bin\Debug\netcoreapp3.1\DailyReportApp.cs.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\bin\Debug\netcoreapp3.1\DailyReportApp.cs.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\bin\Debug\netcoreapp3.1\DailyReportApp.cs.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\bin\Debug\netcoreapp3.1\DailyReportApp.cs.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\obj\Debug\netcoreapp3.1\DailyReportApp.cs.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\obj\Debug\netcoreapp3.1\DailyReportApp.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\obj\Debug\netcoreapp3.1\DailyReportApp.cs.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\obj\Debug\netcoreapp3.1\DailyReportApp.cs.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\obj\Debug\netcoreapp3.1\DailyReportApp.cs.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\obj\Debug\netcoreapp3.1\DailyReportApp.cs.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\obj\Debug\netcoreapp3.1\DailyReportApp.cs.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\DailyReportApp.cs\DailyReportApp.cs\obj\Debug\netcoreapp3.1\DailyReportApp.cs.genruntimeconfig.cache
