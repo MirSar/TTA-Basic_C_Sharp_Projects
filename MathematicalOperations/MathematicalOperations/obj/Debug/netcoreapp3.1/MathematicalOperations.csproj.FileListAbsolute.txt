@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\bin\Debug\netcoreapp3.1\MathematicalOperations.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\bin\Debug\netcoreapp3.1\MathematicalOperations.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\bin\Debug\netcoreapp3.1\MathematicalOperations.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\bin\Debug\netcoreapp3.1\MathematicalOperations.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\bin\Debug\netcoreapp3.1\MathematicalOperations.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\bin\Debug\netcoreapp3.1\MathematicalOperations.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\obj\Debug\netcoreapp3.1\MathematicalOperations.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\obj\Debug\netcoreapp3.1\MathematicalOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\obj\Debug\netcoreapp3.1\MathematicalOperations.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\obj\Debug\netcoreapp3.1\MathematicalOperations.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\obj\Debug\netcoreapp3.1\MathematicalOperations.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\obj\Debug\netcoreapp3.1\MathematicalOperations.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\obj\Debug\netcoreapp3.1\MathematicalOperations.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathematicalOperations\MathematicalOperations\obj\Debug\netcoreapp3.1\MathematicalOperations.genruntimeconfig.cache
