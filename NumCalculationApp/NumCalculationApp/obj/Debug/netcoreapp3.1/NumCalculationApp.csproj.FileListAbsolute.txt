@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\bin\Debug\netcoreapp3.1\NumCalculationApp.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\bin\Debug\netcoreapp3.1\NumCalculationApp.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\bin\Debug\netcoreapp3.1\NumCalculationApp.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\bin\Debug\netcoreapp3.1\NumCalculationApp.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\bin\Debug\netcoreapp3.1\NumCalculationApp.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\bin\Debug\netcoreapp3.1\NumCalculationApp.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\obj\Debug\netcoreapp3.1\NumCalculationApp.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\obj\Debug\netcoreapp3.1\NumCalculationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\obj\Debug\netcoreapp3.1\NumCalculationApp.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\obj\Debug\netcoreapp3.1\NumCalculationApp.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\obj\Debug\netcoreapp3.1\NumCalculationApp.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\obj\Debug\netcoreapp3.1\NumCalculationApp.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\obj\Debug\netcoreapp3.1\NumCalculationApp.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\NumCalculationApp\NumCalculationApp\obj\Debug\netcoreapp3.1\NumCalculationApp.genruntimeconfig.cache
