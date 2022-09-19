@@ -35,6 +35,13 @@ namespace MathematicalOperations
             // Keep the Console open
             Console.ReadLine();
 
+            // String Concatenation
+            Console.WriteLine("Write the first word:");
+            string firstWord = Console.ReadLine();
+            Console.WriteLine("Write the second word:");
+            string secondWord = Console.ReadLine();
+            Console.WriteLine("your two words combined is \n" + firstWord + " " + secondWord);
+            Console.ReadLine();
         }
     }
 }
