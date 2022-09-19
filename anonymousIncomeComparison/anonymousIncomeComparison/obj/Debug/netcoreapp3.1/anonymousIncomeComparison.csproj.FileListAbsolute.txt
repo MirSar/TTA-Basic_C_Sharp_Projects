@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\netcoreapp3.1\anonymousIncomeComparison.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\netcoreapp3.1\anonymousIncomeComparison.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\netcoreapp3.1\anonymousIncomeComparison.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\netcoreapp3.1\anonymousIncomeComparison.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\netcoreapp3.1\anonymousIncomeComparison.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\bin\Debug\netcoreapp3.1\anonymousIncomeComparison.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\netcoreapp3.1\anonymousIncomeComparison.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\netcoreapp3.1\anonymousIncomeComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\netcoreapp3.1\anonymousIncomeComparison.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\netcoreapp3.1\anonymousIncomeComparison.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\netcoreapp3.1\anonymousIncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\netcoreapp3.1\anonymousIncomeComparison.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\netcoreapp3.1\anonymousIncomeComparison.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\anonymousIncomeComparison\anonymousIncomeComparison\obj\Debug\netcoreapp3.1\anonymousIncomeComparison.genruntimeconfig.cache
