@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\obj\Debug\netcoreapp3.1\MathAndComparisonOperations.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\obj\Debug\netcoreapp3.1\MathAndComparisonOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\obj\Debug\netcoreapp3.1\MathAndComparisonOperations.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\obj\Debug\netcoreapp3.1\MathAndComparisonOperations.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\obj\Debug\netcoreapp3.1\MathAndComparisonOperations.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\bin\Debug\netcoreapp3.1\MathAndComparisonOperations.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\bin\Debug\netcoreapp3.1\MathAndComparisonOperations.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\bin\Debug\netcoreapp3.1\MathAndComparisonOperations.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\bin\Debug\netcoreapp3.1\MathAndComparisonOperations.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\bin\Debug\netcoreapp3.1\MathAndComparisonOperations.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\bin\Debug\netcoreapp3.1\MathAndComparisonOperations.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\obj\Debug\netcoreapp3.1\MathAndComparisonOperations.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\obj\Debug\netcoreapp3.1\MathAndComparisonOperations.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\MathAndComparisonOperations\MathAndComparisonOperations\obj\Debug\netcoreapp3.1\MathAndComparisonOperations.genruntimeconfig.cache
