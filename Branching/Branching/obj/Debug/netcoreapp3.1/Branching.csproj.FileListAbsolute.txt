@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\bin\Debug\netcoreapp3.1\Branching.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Branching\Branching\obj\Debug\netcoreapp3.1\Branching.genruntimeconfig.cache
