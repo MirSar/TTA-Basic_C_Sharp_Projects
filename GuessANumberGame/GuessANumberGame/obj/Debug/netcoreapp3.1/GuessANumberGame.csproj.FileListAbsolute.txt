@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\bin\Debug\netcoreapp3.1\GuessANumberGame.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\bin\Debug\netcoreapp3.1\GuessANumberGame.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\bin\Debug\netcoreapp3.1\GuessANumberGame.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\bin\Debug\netcoreapp3.1\GuessANumberGame.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\bin\Debug\netcoreapp3.1\GuessANumberGame.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\bin\Debug\netcoreapp3.1\GuessANumberGame.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\GuessANumberGame\GuessANumberGame\obj\Debug\netcoreapp3.1\GuessANumberGame.genruntimeconfig.cache
