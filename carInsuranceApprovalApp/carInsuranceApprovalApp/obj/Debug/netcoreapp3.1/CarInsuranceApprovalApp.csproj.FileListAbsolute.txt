@@ -1,0 +1,28 @@
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\bin\Debug\netcoreapp3.1\CarInsuranceApprovalApp.exe
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\bin\Debug\netcoreapp3.1\CarInsuranceApprovalApp.deps.json
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\bin\Debug\netcoreapp3.1\CarInsuranceApprovalApp.runtimeconfig.json
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\bin\Debug\netcoreapp3.1\CarInsuranceApprovalApp.runtimeconfig.dev.json
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\bin\Debug\netcoreapp3.1\CarInsuranceApprovalApp.dll
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\bin\Debug\netcoreapp3.1\CarInsuranceApprovalApp.pdb
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.csproj.AssemblyReference.cache
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.AssemblyInfoInputs.cache
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.AssemblyInfo.cs
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.dll
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.pdb
+C:\Users\mirwa\source\repos\CarInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.genruntimeconfig.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\bin\Debug\netcoreapp3.1\CarInsuranceApprovalApp.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\bin\Debug\netcoreapp3.1\CarInsuranceApprovalApp.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\bin\Debug\netcoreapp3.1\CarInsuranceApprovalApp.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\bin\Debug\netcoreapp3.1\CarInsuranceApprovalApp.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\bin\Debug\netcoreapp3.1\CarInsuranceApprovalApp.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\bin\Debug\netcoreapp3.1\CarInsuranceApprovalApp.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\carInsuranceApprovalApp\CarInsuranceApprovalApp\obj\Debug\netcoreapp3.1\CarInsuranceApprovalApp.genruntimeconfig.cache
