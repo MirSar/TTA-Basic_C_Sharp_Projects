@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\bin\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\bin\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\bin\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\bin\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\bin\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\bin\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\obj\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\obj\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\obj\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\obj\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\obj\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\obj\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\obj\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\ConsoleApp_ListArrayIterate\ConsoleApp_ListArrayIterate\obj\Debug\netcoreapp3.1\ConsoleApp_ListArrayIterate.genruntimeconfig.cache
