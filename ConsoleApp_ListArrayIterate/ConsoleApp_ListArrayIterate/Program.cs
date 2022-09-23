@@ -186,7 +186,7 @@ namespace ConsoleApp_ListArrayIterate
             //1. Ask the user to select text to search for in the list.
             Console.WriteLine("I have a list of colors, give me a color to search for in my list");
             string userSelectText = Console.ReadLine();
-            int indexColor = 1;
+            int indexColor = 0;
             //2. Create a loop that iterates through the list and then displays the indices of the items matching the user - selected text.
             //Ensure to remove any break statements that may prevent your code from returning multiple matches.
             foreach (string color in colorList)
