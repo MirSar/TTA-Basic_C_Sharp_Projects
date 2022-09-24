@@ -12,11 +12,9 @@ namespace CallingMethodsSubAssignment
             Console.WriteLine("*************************************");
 
 
-            // calling methods and passing parameters
-            CalculationOfSquare areaSq = new CalculationOfSquare();
-            CalculationOfSquare perimSq = new CalculationOfSquare();
-            CalculationOfSquare diagonalSq = new CalculationOfSquare();
-
+            // Creating an object of the class to access its methods
+            CalculationOfSquare calculationOfSquare = new CalculationOfSquare();
+           
             // User input
             Console.WriteLine("Square wiz here :)  ...\n" +
                 "What is the length of the square?");
@@ -32,9 +30,9 @@ namespace CallingMethodsSubAssignment
                 Console.WriteLine("--------------------------------------\n");
 
                 // passing parameter and recieving results
-                int areaOfSq = areaSq.areaOfSquare(side);
-                int perimeterOfSq = perimSq.perimeterOfSquare(side);
-                int diagonalOfSq = diagonalSq.diagonalOfSquare(side);
+                int areaOfSq = calculationOfSquare.areaOfSquare(side);
+                int perimeterOfSq = calculationOfSquare.perimeterOfSquare(side);
+                int diagonalOfSq = calculationOfSquare.diagonalOfSquare(side);
 
                 // Output results
                 Console.WriteLine("The area of the square is =  " + areaOfSq);
