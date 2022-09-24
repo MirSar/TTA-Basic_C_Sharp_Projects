@@ -18,6 +18,7 @@ namespace Game_TwentyOne_ConsoleApp
             {
                 "Clubs","Hearts","Dimonds","Spades"
             };
+
             List<string> Faces = new List<string>()
             {
                 "Two","Three","Four","Five","Six","Seven",

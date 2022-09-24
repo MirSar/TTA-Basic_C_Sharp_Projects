@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\bin\Debug\netcoreapp3.1\CallingMethodsSubAssignment.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\bin\Debug\netcoreapp3.1\CallingMethodsSubAssignment.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\bin\Debug\netcoreapp3.1\CallingMethodsSubAssignment.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\bin\Debug\netcoreapp3.1\CallingMethodsSubAssignment.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\bin\Debug\netcoreapp3.1\CallingMethodsSubAssignment.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\bin\Debug\netcoreapp3.1\CallingMethodsSubAssignment.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\obj\Debug\netcoreapp3.1\CallingMethodsSubAssignment.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\obj\Debug\netcoreapp3.1\CallingMethodsSubAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\obj\Debug\netcoreapp3.1\CallingMethodsSubAssignment.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\obj\Debug\netcoreapp3.1\CallingMethodsSubAssignment.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\obj\Debug\netcoreapp3.1\CallingMethodsSubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\obj\Debug\netcoreapp3.1\CallingMethodsSubAssignment.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\obj\Debug\netcoreapp3.1\CallingMethodsSubAssignment.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\CallingMethodsSubAssignment\CallingMethodsSubAssignment\obj\Debug\netcoreapp3.1\CallingMethodsSubAssignment.genruntimeconfig.cache
