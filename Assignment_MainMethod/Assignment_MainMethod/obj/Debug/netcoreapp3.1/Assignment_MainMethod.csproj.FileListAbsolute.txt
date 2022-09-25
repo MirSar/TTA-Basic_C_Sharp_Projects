@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\bin\Debug\netcoreapp3.1\Assignment_MainMethod.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\bin\Debug\netcoreapp3.1\Assignment_MainMethod.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\bin\Debug\netcoreapp3.1\Assignment_MainMethod.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\bin\Debug\netcoreapp3.1\Assignment_MainMethod.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\bin\Debug\netcoreapp3.1\Assignment_MainMethod.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\bin\Debug\netcoreapp3.1\Assignment_MainMethod.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\obj\Debug\netcoreapp3.1\Assignment_MainMethod.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\obj\Debug\netcoreapp3.1\Assignment_MainMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\obj\Debug\netcoreapp3.1\Assignment_MainMethod.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\obj\Debug\netcoreapp3.1\Assignment_MainMethod.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\obj\Debug\netcoreapp3.1\Assignment_MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\obj\Debug\netcoreapp3.1\Assignment_MainMethod.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\obj\Debug\netcoreapp3.1\Assignment_MainMethod.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MainMethod\Assignment_MainMethod\obj\Debug\netcoreapp3.1\Assignment_MainMethod.genruntimeconfig.cache

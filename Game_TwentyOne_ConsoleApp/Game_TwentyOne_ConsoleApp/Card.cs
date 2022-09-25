@@ -15,7 +15,7 @@ namespace Game_TwentyOne_ConsoleApp
         //    Face = "Two";
         //}
 
-        // defining properties
+        // This Class makes Cards with Suit and Face properties ==> defining properties
         public string Suit { get; set; }
         public string Face { get; set; }
 

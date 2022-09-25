@@ -51,11 +51,8 @@ namespace CallingMethodsSubAssignment
                 Console.WriteLine("<Press Enter to Exit>");
             }
 
-         
-
             // keep console open
             Console.ReadLine();
-
         }
 
     }

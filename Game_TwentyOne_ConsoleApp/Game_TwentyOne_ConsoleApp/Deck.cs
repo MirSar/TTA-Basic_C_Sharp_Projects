@@ -7,13 +7,15 @@ namespace Game_TwentyOne_ConsoleApp
     // Making it public
     public class Deck
     {
+
         // Creating a Constructor (which assigns value upon creation of the class object)
         public Deck() // Same name as its class
         {
+            // Need this outside of this constructor : public List<Card> Cards {get; set;}
             // Instantiates its property 'Cards' as an empty List<Card>
             Cards = new List<Card>();
            
-            // Creating 2 more lists and isntantiating them with values
+            // Creating 2 more lists and instantiating them with values
             List<string> Suits = new List<string>()
             {
                 "Clubs","Hearts","Dimonds","Spades"
@@ -30,20 +32,22 @@ namespace Game_TwentyOne_ConsoleApp
             {
                 foreach (string suit in Suits)
                 {
-                    // creating a new card which exists only in this loop
+                    // creating a new object of class Card, which exists only in this loop
                     Card card = new Card();
-                    // assign values
-                    card.Suit = suit;
+                    // assign values of items from our two lists 
+                    card.Suit = suit; 
                     card.Face = face;
-                    // add into our cards list
+                    // add into our global Cards list
                     Cards.Add(card);
                 }
             }
 
         }
 
-        // Creating Properties
+        // This Class makes Cards ==> Creating Properties
         public List<Card> Cards { get; set; }
+
+
 
     }
 }
