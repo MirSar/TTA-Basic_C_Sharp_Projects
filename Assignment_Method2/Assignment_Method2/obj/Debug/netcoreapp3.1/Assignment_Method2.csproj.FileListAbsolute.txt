@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\bin\Debug\netcoreapp3.1\Assignment_Method2.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\bin\Debug\netcoreapp3.1\Assignment_Method2.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\bin\Debug\netcoreapp3.1\Assignment_Method2.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\bin\Debug\netcoreapp3.1\Assignment_Method2.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\bin\Debug\netcoreapp3.1\Assignment_Method2.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\bin\Debug\netcoreapp3.1\Assignment_Method2.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\obj\Debug\netcoreapp3.1\Assignment_Method2.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\obj\Debug\netcoreapp3.1\Assignment_Method2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\obj\Debug\netcoreapp3.1\Assignment_Method2.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\obj\Debug\netcoreapp3.1\Assignment_Method2.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\obj\Debug\netcoreapp3.1\Assignment_Method2.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\obj\Debug\netcoreapp3.1\Assignment_Method2.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\obj\Debug\netcoreapp3.1\Assignment_Method2.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_Method2\Assignment_Method2\obj\Debug\netcoreapp3.1\Assignment_Method2.genruntimeconfig.cache
