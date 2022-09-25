@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\bin\Debug\netcoreapp3.1\Assignment_MethodClass4.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\bin\Debug\netcoreapp3.1\Assignment_MethodClass4.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\bin\Debug\netcoreapp3.1\Assignment_MethodClass4.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\bin\Debug\netcoreapp3.1\Assignment_MethodClass4.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\bin\Debug\netcoreapp3.1\Assignment_MethodClass4.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\bin\Debug\netcoreapp3.1\Assignment_MethodClass4.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\obj\Debug\netcoreapp3.1\Assignment_MethodClass4.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\obj\Debug\netcoreapp3.1\Assignment_MethodClass4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\obj\Debug\netcoreapp3.1\Assignment_MethodClass4.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\obj\Debug\netcoreapp3.1\Assignment_MethodClass4.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\obj\Debug\netcoreapp3.1\Assignment_MethodClass4.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\obj\Debug\netcoreapp3.1\Assignment_MethodClass4.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\obj\Debug\netcoreapp3.1\Assignment_MethodClass4.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_MethodClass4\Assignment_MethodClass4\obj\Debug\netcoreapp3.1\Assignment_MethodClass4.genruntimeconfig.cache

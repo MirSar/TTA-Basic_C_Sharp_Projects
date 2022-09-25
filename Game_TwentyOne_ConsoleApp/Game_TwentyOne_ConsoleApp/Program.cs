@@ -49,7 +49,8 @@ namespace Game_TwentyOne_ConsoleApp
             //deck = Shuffle(deck);
             //deck = Shuffle(deck, times);
             // using "named parameters" for ease of readability
-            deck = Shuffle(deck: deck, times: times, out timesShuffled);
+            //deck = Shuffle(deck: deck, times: times, out timesShuffled);
+            deck.Shuffle(out timesShuffled,times);
 
             // printing the Cards from the Deck using foreach loop
             Console.WriteLine("-----------------------------------------");
@@ -83,59 +84,60 @@ namespace Game_TwentyOne_ConsoleApp
             Console.ReadLine();
         }
 
-        // Create a Method to Shuffle the Deck--takes in and outputs class type Deck
-        // using "optional parameter" for multiple shuffling {int times=1) makes it optional
-        public static Deck Shuffle(Deck deck, int times, out int timesShuffled) // Static, can be used without creating an object of it's class
-        {
-            // keep count of how many times the deck has been shuffled -verify times shuffled
-            timesShuffled = 0;
-
-            for (int i=0; i < times; i++)
-            {
-                // create an empty tempList
-                List<Card> TempList = new List<Card>();
-                Random random = new Random();
-
-                // To shuffle. Get a random card and add it to tempList of cards
-                while (deck.Cards.Count > 0)
-                {
-                    // 1. create a random index to pick a card out of the deck
-                    int randomIndex = random.Next(0, deck.Cards.Count); // minvalue=1 maxvalue=52
-                                                                        // add to our empty templist
-                    TempList.Add(deck.Cards[randomIndex]);
-                    // Remove the card we picked
-                    deck.Cards.RemoveAt(randomIndex);
-                }
-
-                // Now we take our empty deck and assign TempList to it.
-                deck.Cards = TempList;
-
-                // Output after each shuffle
-                Console.WriteLine("The Dealer is shuffling the deck:\n" +
-                    "\tShuffle number " + (i+1) + " done.\n");
-                // increment times shuffled
-                timesShuffled++;
-            }
-
-            // Output
-            return deck;
-        }
-
-        //// DevOp Use ONLY: Testing 
-        //// For multiple shuffling we use "method overloading" --Note, Alt option = "optional parameters"
-        //// using same method name but the difference is number of parameters it takes
-        //public static Deck Shuffle(Deck deck, int times)
+        //********moved suffling method to Deck class*********
+        //// Create a Method to Shuffle the Deck--takes in and outputs class type Deck
+        //// using "optional parameter" for multiple shuffling {int times=1) makes it optional
+        //public static Deck Shuffle(Deck deck, int times, out int timesShuffled) // Static, can be used without creating an object of it's class
         //{
-        //    // for loop to shuffle the deck any number of times given
-        //    for (int i=0; i< times; i++)
+        //    // keep count of how many times the deck has been shuffled -verify times shuffled
+        //    timesShuffled = 0;
+
+        //    for (int i=0; i < times; i++)
         //    {
-        //        deck = Shuffle(deck);
-        //        Console.WriteLine(" The Dealer is shuffling the deck:\n" +
-        //            "Shuffle number " + (i+1) + " done.");
+        //        // create an empty tempList
+        //        List<Card> TempList = new List<Card>();
+        //        Random random = new Random();
+
+        //        // To shuffle. Get a random card and add it to tempList of cards
+        //        while (deck.Cards.Count > 0)
+        //        {
+        //            // 1. create a random index to pick a card out of the deck
+        //            int randomIndex = random.Next(0, deck.Cards.Count); // minvalue=1 maxvalue=52
+        //                                                                // add to our empty templist
+        //            TempList.Add(deck.Cards[randomIndex]);
+        //            // Remove the card we picked
+        //            deck.Cards.RemoveAt(randomIndex);
+        //        }
+
+        //        // Now we take our empty deck and assign TempList to it.
+        //        deck.Cards = TempList;
+
+        //        // Output after each shuffle
+        //        Console.WriteLine("The Dealer is shuffling the deck:\n" +
+        //            "\tShuffle number " + (i+1) + " done.\n");
+        //        // increment times shuffled
+        //        timesShuffled++;
         //    }
-        //    // output
+
+        //    // Output
         //    return deck;
         //}
+
+        ////// DevOp Use ONLY: Testing 
+        ////// For multiple shuffling we use "method overloading" --Note, Alt option = "optional parameters"
+        ////// using same method name but the difference is number of parameters it takes
+        ////public static Deck Shuffle(Deck deck, int times)
+        ////{
+        ////    // for loop to shuffle the deck any number of times given
+        ////    for (int i=0; i< times; i++)
+        ////    {
+        ////        deck = Shuffle(deck);
+        ////        Console.WriteLine(" The Dealer is shuffling the deck:\n" +
+        ////            "Shuffle number " + (i+1) + " done.");
+        ////    }
+        ////    // output
+        ////    return deck;
+        ////}
 
 
 

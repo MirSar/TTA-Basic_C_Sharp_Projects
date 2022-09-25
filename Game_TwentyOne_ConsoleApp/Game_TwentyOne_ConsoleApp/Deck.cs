@@ -47,6 +47,38 @@ namespace Game_TwentyOne_ConsoleApp
         // This Class makes Cards ==> Creating Properties
         public List<Card> Cards { get; set; }
 
+        // Create a Method to Shuffle the Deck--takes in and outputs class type Deck
+        // using "optional parameter" for multiple shuffling {int times=1) makes it optional
+        public void Shuffle(out int timesShuffled,int times=1)
+        {
+            timesShuffled=0;
+            for (int i = 0; i < times; i++)
+            {
+                // create an empty tempList
+                List<Card> TempList = new List<Card>();
+                Random random = new Random();
+
+                // To shuffle. Get a random card and add it to tempList of cards
+                while (Cards.Count > 0)
+                {
+                    // 1. create a random index to pick a card out of the deck
+                    int randomIndex = random.Next(0, Cards.Count); // minvalue=1 maxvalue=52
+                                                                        // add to our empty templist
+                    TempList.Add(Cards[randomIndex]);
+                    // Remove the card we picked
+                    Cards.RemoveAt(randomIndex);
+                }
+
+                // Now we take our empty deck and assign TempList to it.
+                Cards = TempList;
+
+                // Output after each shuffle
+                Console.WriteLine("The Dealer is shuffling the deck:\n" +
+                    "\tShuffle number " + (i + 1) + " done.\n");
+                timesShuffled++;
+            }
+
+        }
 
 
     }
