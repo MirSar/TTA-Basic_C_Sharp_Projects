@@ -43,15 +43,16 @@ namespace Game_TwentyOne_ConsoleApp
                 Console.ReadLine();
             }
 
-            // Instantiating class TwentyOneGame
-            TwentyOneGame game = new TwentyOneGame();
-            // We can access methods from class game (parent class)
-            // In this case game is the superclass
-            game.Players = new List<string>() { "Jesse", "Mir", "Erik" };
-            
-            // This method prints the players names
-            game.ListPlayers();
-            Console.ReadLine();
+            //// Instantiating class TwentyOneGame
+            //TwentyOneGame game = new TwentyOneGame();
+
+            //// We can access methods from class game (parent class)
+            //// In this case game is the superclass
+            //game.Players = new List<string>() { "Jesse", "Mir", "Erik" };
+
+            //// This method prints the players names
+            //game.ListPlayers();
+            //Console.ReadLine();
 
 
             // Creating an object; using class=Decks
