@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\bin\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\bin\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\bin\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\bin\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\bin\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\bin\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\obj\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\obj\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\obj\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\obj\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\obj\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\obj\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\obj\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment-MethodsAndObjects5\Assignment-MethodsAndObjects5\obj\Debug\netcoreapp3.1\Assignment-MethodsAndObjects5.genruntimeconfig.cache

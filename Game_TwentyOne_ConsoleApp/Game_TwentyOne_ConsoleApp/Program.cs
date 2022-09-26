@@ -20,7 +20,8 @@ namespace Game_TwentyOne_ConsoleApp
             string userName = Console.ReadLine();
 
             //using "out parameter to verify number of shuffles
-            int timesShuffled = 0;
+            int timesShuffled;
+
             // Setting default of one shuffle for user option
             int times = 1;
 
@@ -41,6 +42,16 @@ namespace Game_TwentyOne_ConsoleApp
                 Console.WriteLine("Let's start!");
                 Console.ReadLine();
             }
+
+            // Instantiating class TwentyOneGame
+            TwentyOneGame game = new TwentyOneGame();
+            // We can access methods from class game (parent class)
+            // In this case game is the superclass
+            game.Players = new List<string>() { "Jesse", "Mir", "Erik" };
+            
+            // This method prints the players names
+            game.ListPlayers();
+            Console.ReadLine();
 
 
             // Creating an object; using class=Decks
