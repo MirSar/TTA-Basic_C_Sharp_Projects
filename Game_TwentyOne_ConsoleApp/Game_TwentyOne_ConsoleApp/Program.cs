@@ -54,6 +54,17 @@ namespace Game_TwentyOne_ConsoleApp
             //game.ListPlayers();
             //Console.ReadLine();
 
+            // Creating List of players
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>()
+            {
+                userName, "Amber", "Nadine", "Ronda"
+            };
+            // Calling ListPlayers
+            game.ListPlayers();
+
+
+
 
             // Creating an object; using class=Decks
             Deck deck = new Deck(); // Instantiated an empty object called deck
