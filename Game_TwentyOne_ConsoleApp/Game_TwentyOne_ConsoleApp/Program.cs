@@ -54,16 +54,39 @@ namespace Game_TwentyOne_ConsoleApp
             //game.ListPlayers();
             //Console.ReadLine();
 
-            // Creating List of players
-            TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>()
+            
+            // Instantiating by using Polymorphism 
+            Game game = new TwentyOneGame();
+            // Initializing a List of Players
+            game.Players = new List<Player>();
+            
+            // Creating a new waiting list of players
+            List<string> waitingList = new List<string>
             {
-                userName, "Amber", "Nadine", "Ronda"
+                userName, "Amber", "Nadine", "Ronda","Jesse", "Cari"
             };
-            // Calling ListPlayers
+
+            // Using foreach loop to add the waitinglist players to the 
+            // game Players list
+            foreach (string newplayer in waitingList)
+            {
+                // Initilizing player
+                Player player = new Player();
+                // Addding the name to the new player from the waitinglist 
+                player.Name = newplayer;
+                // Using the overloaded operator as defined in Player.cs
+                game += player;
+
+                // To remove a player ... no Jesse allowed :) j/p
+                if (player.Name == "Jesse")
+                {
+                    game -= player;
+                }
+            };
+
+
+            // To print the list we are calling ListPlayers
             game.ListPlayers();
-
-
 
 
             // Creating an object; using class=Decks
@@ -73,7 +96,7 @@ namespace Game_TwentyOne_ConsoleApp
             //deck = Shuffle(deck, times);
             // using "named parameters" for ease of readability
             //deck = Shuffle(deck: deck, times: times, out timesShuffled);
-            deck.Shuffle(out timesShuffled,times);
+            deck.Shuffle(out timesShuffled, times);
 
             // printing the Cards from the Deck using foreach loop
             Console.WriteLine("-----------------------------------------");

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Assignment6-Overload_Operators/1.0.0": {
+        "runtime": {
+          "Assignment6-Overload_Operators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment6-Overload_Operators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

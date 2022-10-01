@@ -9,8 +9,8 @@ namespace Game_TwentyOne_ConsoleApp
     public abstract class Game
     {
         // General properties for any given game
-        public List<string> Players{ get; set; }
-        public string Name { get; set; }
+        public List<Player> Players{ get; set; }
+        public string Name { get; set; } // Name of the game
         public string Dealer { get; set; }
 
 
@@ -24,12 +24,14 @@ namespace Game_TwentyOne_ConsoleApp
         public virtual void ListPlayers()
         {
             Console.WriteLine("========================");
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
             Console.WriteLine("========================\n");
-
+           
+            // adds a pause after listing players
+            Console.ReadLine();
         }
 
     }

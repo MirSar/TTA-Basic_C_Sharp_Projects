@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\bin\Debug\netcoreapp3.1\Assignment6-Overload_Operators.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\bin\Debug\netcoreapp3.1\Assignment6-Overload_Operators.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\bin\Debug\netcoreapp3.1\Assignment6-Overload_Operators.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\bin\Debug\netcoreapp3.1\Assignment6-Overload_Operators.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\bin\Debug\netcoreapp3.1\Assignment6-Overload_Operators.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\bin\Debug\netcoreapp3.1\Assignment6-Overload_Operators.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\obj\Debug\netcoreapp3.1\Assignment6-Overload_Operators.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\obj\Debug\netcoreapp3.1\Assignment6-Overload_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\obj\Debug\netcoreapp3.1\Assignment6-Overload_Operators.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\obj\Debug\netcoreapp3.1\Assignment6-Overload_Operators.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\obj\Debug\netcoreapp3.1\Assignment6-Overload_Operators.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\obj\Debug\netcoreapp3.1\Assignment6-Overload_Operators.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\obj\Debug\netcoreapp3.1\Assignment6-Overload_Operators.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment6-Overload_Operators\Assignment6-Overload_Operators\obj\Debug\netcoreapp3.1\Assignment6-Overload_Operators.genruntimeconfig.cache
