@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\bin\Debug\netcoreapp3.1\Assignment7-Parsing Enums.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\bin\Debug\netcoreapp3.1\Assignment7-Parsing Enums.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\bin\Debug\netcoreapp3.1\Assignment7-Parsing Enums.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\bin\Debug\netcoreapp3.1\Assignment7-Parsing Enums.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\bin\Debug\netcoreapp3.1\Assignment7-Parsing Enums.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\bin\Debug\netcoreapp3.1\Assignment7-Parsing Enums.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\obj\Debug\netcoreapp3.1\Assignment7-Parsing Enums.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\obj\Debug\netcoreapp3.1\Assignment7-Parsing Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\obj\Debug\netcoreapp3.1\Assignment7-Parsing Enums.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\obj\Debug\netcoreapp3.1\Assignment7-Parsing Enums.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\obj\Debug\netcoreapp3.1\Assignment7-Parsing Enums.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\obj\Debug\netcoreapp3.1\Assignment7-Parsing Enums.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\obj\Debug\netcoreapp3.1\Assignment7-Parsing Enums.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment7-Parsing Enums\Assignment7-Parsing Enums\obj\Debug\netcoreapp3.1\Assignment7-Parsing Enums.genruntimeconfig.cache

@@ -16,8 +16,33 @@ namespace Game_TwentyOne_ConsoleApp
         //}
 
         // This Class makes Cards with Suit and Face properties ==> defining properties
-        public string Suit { get; set; }
-        public string Face { get; set; }
+        public Suit Suit { get; set; }
+        public Face Face { get; set; }
 
     }
+    // Defining Enumerated types
+    public enum Suit
+    {
+        Hearts,
+        Diamonds,
+        Spades,
+        Clubs
+    }
+    public enum Face
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King,
+        Ace
+    }
+
 }
