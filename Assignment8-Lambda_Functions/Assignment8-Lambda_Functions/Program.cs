@@ -68,6 +68,17 @@ namespace Assignment8_Lambda_Functions
                 Console.WriteLine("Employee: {0} - {1} {2}", emp.Id, emp.FirstName, emp.LastName);
             }
 
+            // Using a lambda expression, make a list of all employees with an Id number greater than 5
+            Console.WriteLine("\n Using Lambda expression to list employee with Id's > 5:");
+            Console.WriteLine("--------------------------------------");
+
+            List<Employee> IdEmpList = EmployeeList.Where(x => x.Id > 5).ToList();
+            // Loop through the List and print the employee info
+            foreach (var emp in IdEmpList)
+            {
+                Console.WriteLine("Employee: {0} - {1} {2}", emp.Id, emp.FirstName, emp.LastName);
+            }
+
             // Keep the Console Open
             Console.ReadLine();
 

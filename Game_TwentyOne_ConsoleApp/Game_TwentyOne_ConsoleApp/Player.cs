@@ -6,6 +6,16 @@ namespace Game_TwentyOne_ConsoleApp
 {
     public class Player
     {
+        // Creating a constructor
+        public Player (string name, int beginningBalance)
+        {
+            // Initialize Card List...Create an empty Card List
+            Hand = new List<Card>();
+            // Assign values to the properties of this object
+            Balance = beginningBalance;
+            Name = name;
+        }
+
         // Properties that a player can have
         public List<Card> Hand { get; set; }
         public int Balance { get; set; }
