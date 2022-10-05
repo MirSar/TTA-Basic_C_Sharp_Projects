@@ -1,0 +1,14 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\bin\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\bin\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.deps.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\bin\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.runtimeconfig.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\bin\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.runtimeconfig.dev.json
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\bin\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\bin\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\obj\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\obj\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\obj\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.AssemblyInfoInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\obj\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.AssemblyInfo.cs
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\obj\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\obj\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\obj\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment8-Lambda_Functions\Assignment8-Lambda_Functions\obj\Debug\netcoreapp3.1\Assignment8-Lambda_Functions.genruntimeconfig.cache

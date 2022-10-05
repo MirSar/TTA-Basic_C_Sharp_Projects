@@ -5,7 +5,7 @@ using System.Text;
 namespace Game_TwentyOne_ConsoleApp
 {
     // set as public so other programs can access it.
-    public class Card
+    public struct Card
     {
         //// Creating a Constructor
         //// These will be the default values if no values are given upon creation
