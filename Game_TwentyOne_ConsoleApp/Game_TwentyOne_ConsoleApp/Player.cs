@@ -17,11 +17,29 @@ namespace Game_TwentyOne_ConsoleApp
         }
 
         // Properties that a player can have
-        public List<Card> Hand { get; set; }
+        private List<Card> _hand = new List<Card>();
+
+        public List<Card> Hand { get { return _hand; } set { _hand = value; } }
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
+        public bool Stay { get; set; }
         
+        // Bet Method
+        public bool Bet(int amount)
+        {
+            if (Balance - amount < 0)
+            {
+                Console.WriteLine("You do not have enough to place a bet of that size.");
+                return false;
+            }
+            else
+            {
+                Balance -= amount;
+                return true;
+            }
+        }
+
         // Adding an Overloaded Operator "+" so we can add players
         public static Game operator+ (Game game, Player player)
         {

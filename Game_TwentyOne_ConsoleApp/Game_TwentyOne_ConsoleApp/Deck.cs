@@ -62,9 +62,9 @@ namespace Game_TwentyOne_ConsoleApp
 
         // Create a Method to Shuffle the Deck--takes in and outputs class type Deck
         // using "optional parameter" for multiple shuffling {int times=1) makes it optional
-        public void Shuffle(out int timesShuffled,int times=1)
+        public void Shuffle(int times=1)
         {
-            timesShuffled=0;
+            Console.WriteLine("------------Shuffle,Shuffle-------------");
             for (int i = 0; i < times; i++)
             {
                 // create an empty tempList
@@ -88,8 +88,8 @@ namespace Game_TwentyOne_ConsoleApp
                 // Output after each shuffle
                 Console.WriteLine("The Dealer is shuffling the deck:\n" +
                     "\tShuffle number " + (i + 1) + " done.\n");
-                timesShuffled++;
             }
+            Console.WriteLine("------------Shuffle,Shuffle-------------");
 
         }
 

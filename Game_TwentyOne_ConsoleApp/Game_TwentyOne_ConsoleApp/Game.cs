@@ -1,18 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+//using System.Threading.Tasks;
+
 
 namespace Game_TwentyOne_ConsoleApp
 {
     // Design tip: design towards abstraction
-    // Note we can NOT instantiate Game only inherit from
+    // Note we can NOT instantiate Game. We only inherit from it
     public abstract class Game
     {
         // General properties for any given game
-        public List<Player> Players{ get; set; }
-        public string Name { get; set; } // Name of the game
-        public string Dealer { get; set; }
+        private List<Player> _players = new List<Player>();
+        private Dictionary<Player, int> _bets = new Dictionary<Player, int>();
 
+        public List<Player> Players{ get { return _players; } set { _players = value; } }        
+        public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } }
+        public string Name { get; set; } // Name of the game
 
         // Methods for games
         // Creating an abstract method for play

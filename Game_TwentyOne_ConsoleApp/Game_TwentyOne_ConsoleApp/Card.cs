@@ -7,17 +7,15 @@ namespace Game_TwentyOne_ConsoleApp
     // set as public so other programs can access it.
     public struct Card
     {
-        //// Creating a Constructor
-        //// These will be the default values if no values are given upon creation
-        //public Card() // constructor method name == class name
-        //{
-        //    Suit = "Spades";
-        //    Face = "Two";
-        //}
-
-        // This Class makes Cards with Suit and Face properties ==> defining properties
+        // defining properties: Suit and Face properties
         public Suit Suit { get; set; }
         public Face Face { get; set; }
+
+        // Overriding the default "ToString" method with our own custom method
+        public override string ToString()
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
 
     }
     // Defining Enumerated types

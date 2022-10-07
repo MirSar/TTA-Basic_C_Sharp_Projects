@@ -9,16 +9,20 @@ namespace Game_TwentyOne_ConsoleApp
         static void Main(string[] args)
         {
             // Game Introduction
-            Console.WriteLine("Welcome to the BlackJacks Only Casino\n" +
-                "What is your name young player?");
+            Console.WriteLine("##########################################");
+            Console.WriteLine("Welcome to the BlackJack Rules Casino!!");
+            Console.WriteLine("##########################################");
+            Console.Write("What is your name young player?\n>>> ");
             string playerName = Console.ReadLine();
-            Console.WriteLine("{0} how much money are you playing with today?", playerName);
+
+            Console.Write("{0} how much money are you playing with today?\n>>> $ ", playerName);
             int bank = Convert.ToInt32(Console.ReadLine());
             
-            Console.WriteLine("Hello, {0}, Would you like to join a game of 21 right now?", playerName);
+            Console.Write("\nHello, {0}, Would you like to join a game of 21 right now?\n>>> ", playerName);
             string answer = Console.ReadLine().ToLower();
+            
             // Creating a new player and game
-            if (answer=="yes"|| answer == "yeah" || answer == "ya" || answer == "y" || answer == "ok"||answer=="sure")
+            if (answer == "yes"|| answer == "yeah" || answer == "ya" || answer == "y" || answer == "ok"||answer == "sure"||answer == "yup")
             {
                 // Creating a new Player object and initilize the player
                 Player player = new Player(playerName,bank);
@@ -29,19 +33,25 @@ namespace Game_TwentyOne_ConsoleApp
                 game += player;
                 // Set the players status
                 player.isActivelyPlaying = true;
+
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
                     game.Play();
                 }
 
-
-
+                // When exiting while loop, remove player
+                game -= player;
+                // End of the game message
+                Console.WriteLine("##########################################");
+                Console.WriteLine("Thank you {0} for playing with us!", playerName);
+                Console.WriteLine("##########################################");
             }
 
+            // Message if they don't want to play
+            Console.WriteLine("Feel free to look around the casino. \nGoodby {0}", playerName);
 
-
-
-
+            // Keep the Console Open
+            Console.ReadLine();      
 
             /************* This was for DEVOPS and Learning*********************************/
             //    Console.WriteLine("******************************************");
