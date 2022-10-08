@@ -27,6 +27,8 @@ namespace Game_TwentyOne_ConsoleApp
             //// Logging the cards dealt using append
             //using (StreamWriter file = new StreamWriter(@"C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\LogFolder\logCardsDealt.txt", true))
             //{
+            //    // Adding a DateTime
+            //    file.WriteLine(DateTime.Now);
             //    file.WriteLine(card);
             //}
 

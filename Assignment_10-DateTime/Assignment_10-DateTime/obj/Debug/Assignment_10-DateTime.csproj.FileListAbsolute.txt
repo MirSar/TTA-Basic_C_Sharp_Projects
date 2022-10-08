@@ -1,0 +1,7 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_10-DateTime\Assignment_10-DateTime\bin\Debug\Assignment_10-DateTime.exe.config
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_10-DateTime\Assignment_10-DateTime\bin\Debug\Assignment_10-DateTime.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_10-DateTime\Assignment_10-DateTime\bin\Debug\Assignment_10-DateTime.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_10-DateTime\Assignment_10-DateTime\obj\Debug\Assignment_10-DateTime.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_10-DateTime\Assignment_10-DateTime\obj\Debug\Assignment_10-DateTime.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_10-DateTime\Assignment_10-DateTime\obj\Debug\Assignment_10-DateTime.exe
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Assignment_10-DateTime\Assignment_10-DateTime\obj\Debug\Assignment_10-DateTime.pdb
