@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic; // Lists
-
+using System.IO; // to access file class to read-write txt files
 
 namespace Game_TwentyOne_ConsoleApp
 {
@@ -8,6 +8,13 @@ namespace Game_TwentyOne_ConsoleApp
     {
         static void Main(string[] args)
         {
+            //// Sample of writing to a txt file
+            //string sampleText = "Testing sending a text file.";
+            //File.WriteAllText(@"C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\SampleOfTextFiles\log.txt", sampleText);
+            //// To read Text we use:
+            //string text = File.ReadAllText(@"C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\SampleOfTextFiles\log.txt");
+
+
             // Game Introduction
             Console.WriteLine("##########################################");
             Console.WriteLine("Welcome to the BlackJack Rules Casino!!");
@@ -109,7 +116,7 @@ namespace Game_TwentyOne_ConsoleApp
             //    // Creating a new waiting list of players
             //    List<string> waitingList = new List<string>
             //    {
-            //        userName, "Amber", "Nadine", "Ronda","Jesse", "Cari"
+            //        userName, "Amber", "Nadine", "Ronda","Jesse", "Cindy"
             //    };
 
             //    // Using foreach loop to add the waitinglist players to the 
