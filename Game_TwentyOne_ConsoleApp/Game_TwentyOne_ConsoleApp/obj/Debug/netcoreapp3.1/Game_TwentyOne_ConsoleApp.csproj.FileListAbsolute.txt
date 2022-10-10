@@ -12,3 +12,6 @@ C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_Twent
 C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\Game_TwentyOne_ConsoleApp\obj\Debug\netcoreapp3.1\Game_TwentyOne_ConsoleApp.pdb
 C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\Game_TwentyOne_ConsoleApp\obj\Debug\netcoreapp3.1\Game_TwentyOne_ConsoleApp.genruntimeconfig.cache
 C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\Game_TwentyOne_ConsoleApp\obj\Debug\netcoreapp3.1\Game_TwentyOne_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\Game_TwentyOne_ConsoleApp\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\Game_TwentyOne_ConsoleApp\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\Game_TwentyOne_ConsoleApp\obj\Debug\netcoreapp3.1\Game_TwentyOne_ConsoleApp.csproj.CopyComplete

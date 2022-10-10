@@ -4,6 +4,21 @@
     "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\TTA-Basic_C_Sharp_Projects\\Game_TwentyOne_ConsoleApp\\Game_TwentyOne_ConsoleApp\\Game_TwentyOne_ConsoleApp.csproj": {}
   },
   "projects": {
+    "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\TTA-Basic_C_Sharp_Projects\\Game_TwentyOne_ConsoleApp\\Casino\\Casino.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\TTA-Basic_C_Sharp_Projects\\Game_TwentyOne_ConsoleApp\\Casino\\Casino.csproj",
+        "projectName": "Casino",
+        "projectPath": "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\TTA-Basic_C_Sharp_Projects\\Game_TwentyOne_ConsoleApp\\Casino\\Casino.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\TTA-Basic_C_Sharp_Projects\\Game_TwentyOne_ConsoleApp\\Game_TwentyOne_ConsoleApp\\Game_TwentyOne_ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -31,7 +46,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\TTA-Basic_C_Sharp_Projects\\Game_TwentyOne_ConsoleApp\\Casino\\Casino.csproj": {
+                "projectPath": "C:\\Users\\mirwa\\OneDrive\\Documents\\2 GitHub\\TTA-Basic_C_Sharp_Projects\\Game_TwentyOne_ConsoleApp\\Casino\\Casino.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

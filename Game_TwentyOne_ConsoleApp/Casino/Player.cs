@@ -2,10 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Game_TwentyOne_ConsoleApp
+namespace Casino
 {
     public class Player
     {
+        // Overloading and chaining constructor
+        public Player (string name):this(name, 100) // gives default of $100 to play
+        {
+        }
         // Creating a constructor
         public Player (string name, int beginningBalance)
         {
@@ -24,8 +28,10 @@ namespace Game_TwentyOne_ConsoleApp
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        // Including a Guid (Global unique identifier)
+        public Guid Id { get; set; }
         
-        // Bet Method
+        // Method: Bet
         public bool Bet(int amount)
         {
             if (Balance - amount < 0)

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Game_TwentyOne_ConsoleApp
+namespace Casino
 {
     // set as public so other programs can access it.
     public struct Card

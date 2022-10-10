@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
-//using System.Threading.Tasks;
+using Casino.Interfaces;
 
 
-namespace Game_TwentyOne_ConsoleApp
+namespace Casino.Game_TwentyOne_ConsoleApp
 {
     // This class inherits from parent class Game
     // IwalkAway is an interface (interface starts with I..)

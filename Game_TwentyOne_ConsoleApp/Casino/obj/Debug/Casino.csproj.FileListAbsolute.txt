@@ -1,0 +1,6 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\Casino\bin\Debug\Casino.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\Casino\bin\Debug\Casino.pdb
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\Casino\obj\Debug\Casino.dll
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\Casino\obj\Debug\Casino.pdb

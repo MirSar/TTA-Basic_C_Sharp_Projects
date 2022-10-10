@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic; // Lists
 using System.IO; // to access file class to read-write txt files
+using Casino;
+using Casino.Game_TwentyOne_ConsoleApp;
 
 namespace Game_TwentyOne_ConsoleApp
 {
@@ -8,31 +10,34 @@ namespace Game_TwentyOne_ConsoleApp
     {
         static void Main(string[] args)
         {
-            //// Sample of writing to a txt file
-            //string sampleText = "Testing sending a text file.";
-            //File.WriteAllText(@"C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\SampleOfTextFiles\log.txt", sampleText);
-            //// To read Text we use:
-            //string text = File.ReadAllText(@"C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\SampleOfTextFiles\log.txt");
-
-
             // Game Introduction
             Console.WriteLine("##########################################");
             Console.WriteLine("Welcome to the BlackJack Rules Casino!!");
             Console.WriteLine("##########################################");
-            Console.Write("What is your name young player?\n>>> ");
-            string playerName = Console.ReadLine();
 
-            Console.Write("{0} how much money are you playing with today?\n>>> $ ", playerName);
-            int bank = Convert.ToInt32(Console.ReadLine());
-            
-            Console.Write("\nHello, {0}, Would you like to join a game of 21 right now?\n>>> ", playerName);
-            string answer = Console.ReadLine().ToLower();
-            
+            // Getting new player info
+            Console.Write("What is your name young player?\n>>> ");
+            string newPlayerName = Console.ReadLine();
+            Console.Write("{0} how much money are you playing with today?\n>>> $ ", newPlayerName);
+            int newPlayerBank = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("\n{0}, Would you like to join a game of 21 right now?\n>>> ",newPlayerName);
+            string answer = Console.ReadLine().ToLower();          
+
             // Creating a new player and game
             if (answer == "yes"|| answer == "yeah" || answer == "ya" || answer == "y" || answer == "ok"||answer == "sure"||answer == "yup")
             {
                 // Creating a new Player object and initilize the player
-                Player player = new Player(playerName,bank);
+                Player player = new Player(newPlayerName, newPlayerBank);
+                // creating a unique identifier for the player
+                player.Id = Guid.NewGuid();
+                // Logging the player id
+                using (StreamWriter file = new StreamWriter(@"C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\Game_TwentyOne_ConsoleApp\LogFolder\logCardsDealt.txt", true))
+                {
+                    // Adding a DateTime
+                    file.WriteLine(player.Id);
+                }
+
                 // Creating a new Game object and initilize the Game
                 // Using polymorphism...gives access to overloaded operators
                 Game game = new TwentyOneGame();
@@ -50,13 +55,15 @@ namespace Game_TwentyOne_ConsoleApp
                 game -= player;
                 // End of the game message
                 Console.WriteLine("##########################################");
-                Console.WriteLine("Thank you {0} for playing with us!", playerName);
+                Console.WriteLine("Thank you {0} for playing with us!", player.Name);
                 Console.WriteLine("##########################################");
             }
-
-            // Message if they don't want to play
-            Console.WriteLine("Feel free to look around the casino. \nGoodby {0}", playerName);
-
+            else
+            {
+                // Message if they don't want to play
+                Console.WriteLine("Feel free to look around the casino. \nGoodby {0}", newPlayerName);
+            }
+            
             // Keep the Console Open
             Console.ReadLine();      
 

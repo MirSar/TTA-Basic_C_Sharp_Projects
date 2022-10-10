@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Game_TwentyOne_ConsoleApp
+namespace Casino.Game_TwentyOne_ConsoleApp
 {
     // Inheriting from Dealer
     public class TwentyOneDealer : Dealer

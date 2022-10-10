@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq; // Needed for Lambda expressions
 
-namespace Game_TwentyOne_ConsoleApp
+namespace Casino.Game_TwentyOne_ConsoleApp
 {
     public class TwentyOneRules
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Game_TwentyOne_ConsoleApp
+namespace Casino
 {
     // Making it public
     public class Deck

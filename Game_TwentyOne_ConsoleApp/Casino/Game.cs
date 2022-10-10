@@ -5,7 +5,7 @@ using System.Text;
 //using System.Threading.Tasks;
 
 
-namespace Game_TwentyOne_ConsoleApp
+namespace Casino
 {
     // Design tip: design towards abstraction
     // Note we can NOT instantiate Game. We only inherit from it
