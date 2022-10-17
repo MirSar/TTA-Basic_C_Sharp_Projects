@@ -1,0 +1,2 @@
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\WebApplication2_MVC\WebApplication2_MVC\obj\Debug\WebApplication2_MVC.csproj.AssemblyReference.cache
+C:\Users\mirwa\OneDrive\Documents\2 GitHub\TTA-Basic_C_Sharp_Projects\WebApplication2_MVC\WebApplication2_MVC\obj\Debug\WebApplication2_MVC.csproj.CoreCompileInputs.cache

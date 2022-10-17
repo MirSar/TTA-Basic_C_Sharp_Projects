@@ -1,0 +1,20 @@
+﻿<!--using statement allows us to access the Instructor class without 
+    prefixing it with TechAcadStudentsMvc.Models-->
+@using TechAcadStudentsMVC.Models
+<!--Defining our model and its datatype-->
+@model List<Instructor>
+
+
+@{
+    ViewBag.Title = "Instructors";
+}
+
+<h2>Instructors</h2>
+`
+@{ 
+    foreach (Instructor instructor in Model)
+            {
+                <h4>@instructor.FirstName</h4>
+            }
+}
+
