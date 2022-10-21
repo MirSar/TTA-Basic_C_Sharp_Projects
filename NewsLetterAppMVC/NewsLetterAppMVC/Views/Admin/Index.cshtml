@@ -1,0 +1,35 @@
+﻿<!--Using this Admin page with our model-->
+@using NewsLetterAppMVC.ViewModels
+<!--We are passing in a list as our model-->
+@model List<SignupVm>
+
+
+<!--Using bootstrap-->
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Sign-ups</h5>
+        </div>
+
+        <!--Card Body-->
+        <div class="card-body">
+            <!--Display one row per Newsletter SingUp-->
+            @foreach (var signup in Model)
+            {
+                <div class="row">
+                    <div class="col">
+                        @signup.FirstName
+                    </div>
+                    <div class="col">
+                        @signup.LastName
+                    </div>
+                    <div class="col">
+                        @signup.EmailAddress
+                    </div>
+                </div>
+            }
+
+        </div>
+
+    </div>
+</div>
