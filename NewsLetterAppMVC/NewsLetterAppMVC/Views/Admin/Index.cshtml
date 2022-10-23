@@ -16,17 +16,29 @@
             <!--Display one row per Newsletter SingUp-->
             @foreach (var signup in Model)
             {
-                <div class="row">
-                    <div class="col">
-                        @signup.FirstName
+                // Creating a Form
+                using (Html.BeginForm("Unsubscribe", "Admin", FormMethod.Post))
+                {
+                    <!--Including a hidden input to add value that matches the Id -->
+                    <input type="hidden" name="Id" value="@signup.Id" />
+                    <div class="row mb-3">
+                        <div class="col">
+                            @signup.FirstName
+                        </div>
+                        <div class="col">
+                            @signup.LastName
+                        </div>
+                        <div class="col-5">
+                            @signup.EmailAddress
+                        </div>
+                        <div class="col">
+                            <button type="submit" class="btn btn-danger btn-block">
+                                Unsubscribe
+                            </button>
+                        </div>
                     </div>
-                    <div class="col">
-                        @signup.LastName
-                    </div>
-                    <div class="col">
-                        @signup.EmailAddress
-                    </div>
-                </div>
+                }
+
             }
 
         </div>

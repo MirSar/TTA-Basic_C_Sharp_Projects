@@ -1,4 +1,5 @@
-﻿using NewsLetterAppMVC.ViewModels;
+﻿using NewsLetterAppMVC.Models;
+using NewsLetterAppMVC.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,12 +14,16 @@ namespace NewsLetterAppMVC.Controllers
         public ActionResult Index()
         {
             // Replacing the below commented out ADO.NET code with EF syntax
-
             // First- Instantiate our newsletter Entities class; gives access to dB
             using (NewsletterEntities db = new NewsletterEntities())
             {
                 // Creating a variable Signups-- db.SingUps represents all of our records in the dB
-                var signups = db.SignUps;
+                //// Using Lambda syntax and SQL to sort and display only Subscribed List items
+                //var signups = db.SignUps.Where(x=> x.Removed == null).ToList();
+                // Using Linq to sort and display only Subscribed List items
+                var signups = (from c in db.SignUps
+                               where c.Removed == null
+                               select c).ToList();
 
                 // Mapping our dataBase objects to the ViewModel
                 // instantiate our list : List<SignupVm> signupVms = new List<SignupVm>();
@@ -28,6 +33,7 @@ namespace NewsLetterAppMVC.Controllers
                 {
                     // mapping properites
                     var signupVm = new SignupVm();
+                    signupVm.Id = signup.Id;
                     signupVm.FirstName = signup.FirstName;
                     signupVm.LastName = signup.LastName;
                     signupVm.EmailAddress = signup.EmailAddress;
@@ -86,6 +92,23 @@ namespace NewsLetterAppMVC.Controllers
 
             //// Passing our List to the View... instead of passing signups we pass signupVms
             //return View(signupVms);
+        }
+
+        public ActionResult Unsubscribe(int Id)
+        {
+            // Establish our dB context ... instantiate
+            using (NewsletterEntities db = new NewsletterEntities())
+            {
+                // Find the records we want
+                var signup = db.SignUps.Find(Id);
+                // change the Revmove column to DateTime.Now
+                signup.Removed = DateTime.Now;
+                // Update the changes to our dB
+                db.SaveChanges();
+            }
+            // Redirecting back to our method
+            return RedirectToAction("Index");
+
         }
     }
 }
