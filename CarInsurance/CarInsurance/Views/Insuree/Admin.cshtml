@@ -1,0 +1,46 @@
+﻿@model CarInsurance.Models.Insuree
+
+@{
+    ViewBag.Title = "Admin";
+}
+<!--Add an Admin View for a site administrator to the Insuree Views. 
+    This page must show all quotes issued, along with the user's first name, last name, and email address.-->
+<h2>Admin</h2>
+<div>
+    <h4>Insuree</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmailAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmailAddress)
+        </dd>
+
+          <dt>
+            @Html.DisplayNameFor(model => model.Quote)
+        </dt>
+
+        @*<dd>
+            @Html.DisplayFor(monthlyTotal)
+        </dd>*@
+
+    </dl>
+</div>
