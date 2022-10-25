@@ -13,6 +13,11 @@ namespace CarInsurance.Controllers
     public class InsureeController : Controller
     {
         private InsuranceEntities db = new InsuranceEntities();
+        // Admin page
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
+        }
 
         // GET: Insuree
         public ActionResult Index()
@@ -51,6 +56,8 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                // calling our QuoteCalc method
+                QuoteCalc(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -83,7 +90,9 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Entry(insuree).State = EntityState.Modified;
+                // calling our QuoteCalc method
+                QuoteCalc(insuree);
+                db.Entry(insuree).State = EntityState.Modified;                          
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
@@ -125,23 +134,18 @@ namespace CarInsurance.Controllers
             }
             base.Dispose(disposing);
         }
+        
 
         // add logic to calculate a quote based on given guidelines: 
-        public ActionResult Admin (int id)
+        public decimal QuoteCalc (Insuree insuree)
         {
-            // Find Insuree
-            Insuree insuree = db.Insurees.Find(id);
-            if (insuree == null)
-            {
-                return HttpNotFound();
-            }
             // Calculate the Age of the Insuree
             TimeSpan ageOfInsuree = DateTime.Now - insuree.DateOfBirth;
             // Convert to days as int
             int ageNow = ageOfInsuree.Days;
 
             // start with a base of $50 / month.
-            Double monthlyTotal = 50.00;
+            decimal monthlyTotal = 50.00m;
 
             //if the user is 18 or under, add $100 to the monthly total.
             if (ageNow < (19 * 365))
@@ -187,15 +191,15 @@ namespace CarInsurance.Controllers
             // If the user has ever had a DUI, add 25% to the total.
             if (insuree.DUI)
             {
-                monthlyTotal += monthlyTotal * .25;
+                monthlyTotal += monthlyTotal * .25m;
             }
             // If it's full coverage, add 50% to the total.
             if (insuree.CoverageType)
             {
-                monthlyTotal += monthlyTotal * .5;
+                monthlyTotal += monthlyTotal * .5m;
             }
-
-            return View(insuree);
+            insuree.Quote = monthlyTotal;
+            return insuree.Quote;
         }
 
 
