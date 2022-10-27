@@ -1,8 +1,6 @@
 # README.md
 ======================================================
-
 Software Developer: Mirwais Sarwary
-
 ======================================================
 
 
@@ -12,8 +10,9 @@ This is part of my course work for The Tech Academy's Software Developer
 program.  This course starts with the Fundamentals of C# and Microsoft's .NET Framework and builds up to intermediate concepts. The course consists of hands on assignments, challenges, and projects.  Below are a few of the selected projects.
 
 ## Projects
-These are basic projects written in C# and use various features of .NET Framework and Core
 --------------------------------------------------------
+These are basic projects written in C# and use various features of .NET Framework and Core
+
 * BlackJack Game
 * Car Insurance
 * Online Newsletter Form
